@@ -1,0 +1,1458 @@
+{
+  "checked": "2026-10-29",
+  "note": "Apple product imagery. Trademarks belong to Apple. Verify permission before public commercial use. Prices and stock are fictional demo data.",
+  "sources": {
+    "iphone": "https://www.apple.com/iphone/compare/",
+    "ipad": "https://www.apple.com/ipad/compare/",
+    "mac": "https://www.apple.com/mac/compare/"
+  },
+  "images": [
+    {
+      "model": "iPhone Duo",
+      "file": "images/apple/iphone-duo.jpg",
+      "source": "https://www.apple.com/v/iphone/compare/an/images/overview/compare_iphone_duo_star_white__f2s3n9ds95ay_large_2x.jpg"
+    },
+    {
+      "model": "iPhone 18 Pro",
+      "file": "images/apple/iphone-18-pro.jpg",
+      "source": "https://www.apple.com/v/iphone/compare/an/images/overview/compare_iphone_18_pro_burgundy__mdv9ns7r6oa6_large_2x.jpg"
+    },
+    {
+      "model": "iPhone 18 Pro Max",
+      "file": "images/apple/iphone-18-pro-max.jpg",
+      "source": "https://www.apple.com/v/iphone/compare/an/images/overview/compare_iphone_18_pro_max_burgundy__dcz67l4005oy_large_2x.jpg"
+    },
+    {
+      "model": "iPhone Air",
+      "file": "images/apple/iphone-air.jpg",
+      "source": "https://www.apple.com/v/iphone/compare/an/images/overview/compare_iphone_air_sky_blue__kvm15b10x6qa_large_2x.jpg"
+    },
+    {
+      "model": "iPhone 17",
+      "file": "images/apple/iphone-17.jpg",
+      "source": "https://www.apple.com/v/iphone/compare/an/images/overview/compare_iphone17_lavender__etuerbkei0ya_large_2x.jpg"
+    },
+    {
+      "model": "iPhone 17e",
+      "file": "images/apple/iphone-17e.jpg",
+      "source": "https://www.apple.com/v/iphone/compare/an/images/overview/compare_iphone17e_pink__bj426l1s94gi_large_2x.jpg"
+    },
+    {
+      "model": "iPhone 17 Pro",
+      "file": "images/apple/iphone-17-pro.jpg",
+      "source": "https://www.apple.com/v/iphone/compare/an/images/overview/compare_iphone17_pro_cosmic_orange__dm1qripnvq82_large_2x.jpg"
+    },
+    {
+      "model": "iPhone 17 Pro Max",
+      "file": "images/apple/iphone-17-pro-max.jpg",
+      "source": "https://www.apple.com/v/iphone/compare/an/images/overview/compare_iphone17_pro_max_cosmic_orange__d7yolstz8cmu_large_2x.jpg"
+    },
+    {
+      "model": "iPhone 16",
+      "file": "images/apple/iphone-16.jpg",
+      "source": "https://www.apple.com/v/iphone/compare/an/images/overview/compare_iphone16_ultramarine__sr260qois4am_large_2x.jpg"
+    },
+    {
+      "model": "iPhone 16 Plus",
+      "file": "images/apple/iphone-16-plus.jpg",
+      "source": "https://www.apple.com/v/iphone/compare/an/images/overview/compare_iphone16_plus_ultramarine__fedlzqf2pmqi_large_2x.jpg"
+    },
+    {
+      "model": "iPhone 16 Pro",
+      "file": "images/apple/iphone-16-pro.jpg",
+      "source": "https://www.apple.com/v/iphone/compare/an/images/overview/compare_iphone16_pro_desert_titanium__ftixjyyve6qi_large_2x.jpg"
+    },
+    {
+      "model": "iPhone 16 Pro Max",
+      "file": "images/apple/iphone-16-pro-max.jpg",
+      "source": "https://www.apple.com/v/iphone/compare/an/images/overview/compare_iphone16_pro_max_desert_titanium__f8058hcu01ua_large_2x.jpg"
+    },
+    {
+      "model": "iPhone 16e",
+      "file": "images/apple/iphone-16e.jpg",
+      "source": "https://www.apple.com/v/iphone/compare/an/images/overview/compare_iphone16e_white__qfwztyphaj2u_large_2x.jpg"
+    },
+    {
+      "model": "iPhone 15",
+      "file": "images/apple/iphone-15.jpg",
+      "source": "https://www.apple.com/v/iphone/compare/an/images/overview/compare_iphone15_pink__d2gop48s2aye_large_2x.jpg"
+    },
+    {
+      "model": "iPhone 15 Plus",
+      "file": "images/apple/iphone-15-plus.jpg",
+      "source": "https://www.apple.com/v/iphone/compare/an/images/overview/compare_iphone15_plus_pink__fai0b9il6cq6_large_2x.jpg"
+    },
+    {
+      "model": "iPhone 15 Pro",
+      "file": "images/apple/iphone-15-pro.jpg",
+      "source": "https://www.apple.com/v/iphone/compare/an/images/overview/compare_iphone15_pro_natural_titanium__scqfo7q20n2i_large_2x.jpg"
+    },
+    {
+      "model": "iPhone 15 Pro Max",
+      "file": "images/apple/iphone-15-pro-max.jpg",
+      "source": "https://www.apple.com/v/iphone/compare/an/images/overview/compare_iphone15_pro_max_natural_titanium__byvhspupwiuq_large_2x.jpg"
+    },
+    {
+      "model": "iPad Pro 11-inch (M5)",
+      "file": "images/apple/ipad-pro-11-inch-m5.jpg",
+      "source": "https://www.apple.com/v/ipad/compare/an/images/overview/ipad_pro_11_m4_silver__eowi3mx395qq_large_2x.jpg"
+    },
+    {
+      "model": "iPad Pro 13-inch (M5)",
+      "file": "images/apple/ipad-pro-13-inch-m5.jpg",
+      "source": "https://www.apple.com/v/ipad/compare/an/images/overview/ipad_pro_13_m5_silver__dyubev4o3s8y_large_2x.jpg"
+    },
+    {
+      "model": "iPad Pro 11-inch (M4)",
+      "file": "images/apple/ipad-pro-11-inch-m4.jpg",
+      "source": "https://www.apple.com/v/ipad/compare/an/images/overview/ipad_pro_11_m4_silver__eowi3mx395qq_large_2x.jpg"
+    },
+    {
+      "model": "iPad Pro 13-inch (M4)",
+      "file": "images/apple/ipad-pro-13-inch-m4.jpg",
+      "source": "https://www.apple.com/v/ipad/compare/an/images/overview/ipad_pro_13_m4_silver__f6alcd7cbhe2_large_2x.jpg"
+    },
+    {
+      "model": "iPad Air 11-inch (M4)",
+      "file": "images/apple/ipad-air-11-inch-m4.jpg",
+      "source": "https://www.apple.com/v/ipad/compare/an/images/overview/ipad_air_11_m4_blue__exgp5c6s4zgy_large_2x.jpg"
+    },
+    {
+      "model": "iPad Air 13-inch (M4)",
+      "file": "images/apple/ipad-air-13-inch-m4.jpg",
+      "source": "https://www.apple.com/v/ipad/compare/an/images/overview/ipad_air_13_m4_blue__dvsjwapfvuc2_large_2x.jpg"
+    },
+    {
+      "model": "iPad Air 11-inch (M3)",
+      "file": "images/apple/ipad-air-11-inch-m3.jpg",
+      "source": "https://www.apple.com/v/ipad/compare/an/images/overview/ipad_air_11_m3_blue__gbre4u4if6em_large_2x.jpg"
+    },
+    {
+      "model": "iPad Air 13-inch (M3)",
+      "file": "images/apple/ipad-air-13-inch-m3.jpg",
+      "source": "https://www.apple.com/v/ipad/compare/an/images/overview/ipad_air_13_m3_blue__gahhpn9r2pea_large_2x.jpg"
+    },
+    {
+      "model": "iPad Air 11-inch (M2)",
+      "file": "images/apple/ipad-air-11-inch-m2.jpg",
+      "source": "https://www.apple.com/v/ipad/compare/an/images/overview/ipad_air_11_m2_blue__ceyxgnf4v9yu_large_2x.jpg"
+    },
+    {
+      "model": "iPad Air 13-inch (M2)",
+      "file": "images/apple/ipad-air-13-inch-m2.jpg",
+      "source": "https://www.apple.com/v/ipad/compare/an/images/overview/ipad_air_13_m2_blue__da7jlku5oe2q_large_2x.jpg"
+    },
+    {
+      "model": "iPad (A16)",
+      "file": "images/apple/ipad-a16.jpg",
+      "source": "https://www.apple.com/v/ipad/compare/an/images/overview/ipad_11th_a16_blue__eyfta89o7eie_large_2x.jpg"
+    },
+    {
+      "model": "iPad mini (A20 Pro)",
+      "file": "images/apple/ipad-mini-a20-pro.jpg",
+      "source": "https://www.apple.com/v/ipad/compare/an/images/overview/ipad_mini_a20pro_starlight__e8xd0qzz95ua_large_2x.jpg"
+    },
+    {
+      "model": "iPad mini (A17 Pro)",
+      "file": "images/apple/ipad-mini-a17-pro.jpg",
+      "source": "https://www.apple.com/v/ipad/compare/an/images/overview/ipad_mini_a17pro_blue__dts9gmhjopqq_large_2x.jpg"
+    },
+    {
+      "model": "iPad (10th generation)",
+      "file": "images/apple/ipad-10th-generation.jpg",
+      "source": "https://www.apple.com/v/ipad/compare/an/images/overview/ipad_10th_gen_blue__c37qgd892qie_large_2x.jpg"
+    },
+    {
+      "model": "iPad Air (5th generation)",
+      "file": "images/apple/ipad-air-5th-generation.jpg",
+      "source": "https://www.apple.com/v/ipad/compare/an/images/overview/ipad_air_5th_gen_blue__bmwunk0isghe_large_2x.jpg"
+    },
+    {
+      "model": "iPad Pro 11-inch (4th generation)",
+      "file": "images/apple/ipad-pro-11-inch-4th-generation.jpg",
+      "source": "https://www.apple.com/v/ipad/compare/an/images/overview/ipad_pro_11_4th_gen_silver__bn1972i7xsdy_large_2x.jpg"
+    },
+    {
+      "model": "iPad Pro 12.9-inch (6th generation)",
+      "file": "images/apple/ipad-pro-12-9-inch-6th-generation.jpg",
+      "source": "https://www.apple.com/v/ipad/compare/an/images/overview/ipad_pro_12_9_6th_gen_silver__b6tr6m3qil6q_large_2x.jpg"
+    },
+    {
+      "model": "MacBook Neo (A18 Pro)",
+      "file": "images/apple/macbook-neo-a18-pro.jpg",
+      "source": "https://www.apple.com/v/mac/compare/ai/images/overview/compare_macbook_neo_a18_citrus__25g9b9zbiwiu_large_2x.jpg"
+    },
+    {
+      "model": "MacBook Air 13-inch (M5)",
+      "file": "images/apple/macbook-air-13-inch-m5.jpg",
+      "source": "https://www.apple.com/v/mac/compare/ai/images/overview/compare_macbook_air_m5_skyblue__fty6fmk5v1me_large_2x.jpg"
+    },
+    {
+      "model": "MacBook Air 15-inch (M5)",
+      "file": "images/apple/macbook-air-15-inch-m5.jpg",
+      "source": "https://www.apple.com/v/mac/compare/ai/images/overview/compare_macbook_air_m5_15_skyblue__bvkzzp9qmdjm_large_2x.jpg"
+    },
+    {
+      "model": "MacBook Air 13-inch (M4)",
+      "file": "images/apple/macbook-air-13-inch-m4.jpg",
+      "source": "https://www.apple.com/v/mac/compare/ai/images/overview/compare_macbook_air_mx_skyblue__ewtkcxzt8hme_large_2x.jpg"
+    },
+    {
+      "model": "MacBook Air 15-inch (M4)",
+      "file": "images/apple/macbook-air-15-inch-m4.jpg",
+      "source": "https://www.apple.com/v/mac/compare/ai/images/overview/compare_macbook_air_mx_15_skyblue__ge4xgamh8te2_large_2x.jpg"
+    },
+    {
+      "model": "MacBook Air 13-inch (M3)",
+      "file": "images/apple/macbook-air-13-inch-m3.jpg",
+      "source": "https://www.apple.com/v/mac/compare/ai/images/overview/compare_macbook_air_mx_starlight__f4zo7jj82de2_large_2x.jpg"
+    },
+    {
+      "model": "MacBook Air 15-inch (M3)",
+      "file": "images/apple/macbook-air-15-inch-m3.jpg",
+      "source": "https://www.apple.com/v/mac/compare/ai/images/overview/compare_macbook_air_mx_15_starlight__dvxwvxnk8282_large_2x.jpg"
+    },
+    {
+      "model": "MacBook Pro 14-inch (M6)",
+      "file": "images/apple/macbook-pro-14-inch-m6.jpg",
+      "source": "https://www.apple.com/v/mac/compare/ai/images/overview/compare_macbook_pro_m5_14_spaceblack__e8bg1b4hasii_large_2x.jpg"
+    },
+    {
+      "model": "MacBook Pro 14-inch (M5)",
+      "file": "images/apple/macbook-pro-14-inch-m5.jpg",
+      "source": "https://www.apple.com/v/mac/compare/ai/images/overview/compare_macbook_pro_m5_14_spaceblack__e8bg1b4hasii_large_2x.jpg"
+    },
+    {
+      "model": "MacBook Pro 14-inch (M5 Pro)",
+      "file": "images/apple/macbook-pro-14-inch-m5-pro.jpg",
+      "source": "https://www.apple.com/v/mac/compare/ai/images/overview/compare_macbook_pro_m5_14_spaceblack__e8bg1b4hasii_large_2x.jpg"
+    },
+    {
+      "model": "MacBook Pro 14-inch (M5 Max)",
+      "file": "images/apple/macbook-pro-14-inch-m5-max.jpg",
+      "source": "https://www.apple.com/v/mac/compare/ai/images/overview/compare_macbook_pro_m5_14_spaceblack__e8bg1b4hasii_large_2x.jpg"
+    },
+    {
+      "model": "MacBook Pro 16-inch (M5 Pro)",
+      "file": "images/apple/macbook-pro-16-inch-m5-pro.jpg",
+      "source": "https://www.apple.com/v/mac/compare/ai/images/overview/compare_macbook_pro_m5_16_spaceblack__81ui3u6gyuqu_large_2x.jpg"
+    },
+    {
+      "model": "MacBook Pro 16-inch (M5 Max)",
+      "file": "images/apple/macbook-pro-16-inch-m5-max.jpg",
+      "source": "https://www.apple.com/v/mac/compare/ai/images/overview/compare_macbook_pro_m5_16_spaceblack__81ui3u6gyuqu_large_2x.jpg"
+    },
+    {
+      "model": "MacBook Pro 14-inch (M4)",
+      "file": "images/apple/macbook-pro-14-inch-m4.jpg",
+      "source": "https://www.apple.com/v/mac/compare/ai/images/overview/compare_macbook_pro_14_spaceblack__bcacn5s80i9u_large_2x.jpg"
+    },
+    {
+      "model": "MacBook Pro 14-inch (M4 Pro)",
+      "file": "images/apple/macbook-pro-14-inch-m4-pro.jpg",
+      "source": "https://www.apple.com/v/mac/compare/ai/images/overview/compare_macbook_pro_14_spaceblack__bcacn5s80i9u_large_2x.jpg"
+    },
+    {
+      "model": "MacBook Pro 14-inch (M4 Max)",
+      "file": "images/apple/macbook-pro-14-inch-m4-max.jpg",
+      "source": "https://www.apple.com/v/mac/compare/ai/images/overview/compare_macbook_pro_14_spaceblack__bcacn5s80i9u_large_2x.jpg"
+    },
+    {
+      "model": "MacBook Pro 16-inch (M4 Pro)",
+      "file": "images/apple/macbook-pro-16-inch-m4-pro.jpg",
+      "source": "https://www.apple.com/v/mac/compare/ai/images/overview/compare_macbook_pro_16_spaceblack__f89510vnuemq_large_2x.jpg"
+    },
+    {
+      "model": "MacBook Pro 16-inch (M4 Max)",
+      "file": "images/apple/macbook-pro-16-inch-m4-max.jpg",
+      "source": "https://www.apple.com/v/mac/compare/ai/images/overview/compare_macbook_pro_16_spaceblack__f89510vnuemq_large_2x.jpg"
+    },
+    {
+      "model": "MacBook Pro 14-inch (M3)",
+      "file": "images/apple/macbook-pro-14-inch-m3.jpg",
+      "source": "https://www.apple.com/v/mac/compare/ai/images/overview/compare_macbook_pro_14_spacegray__bs4ph4qrvs76_large_2x.jpg"
+    },
+    {
+      "model": "MacBook Pro 14-inch (M3 Pro)",
+      "file": "images/apple/macbook-pro-14-inch-m3-pro.jpg",
+      "source": "https://www.apple.com/v/mac/compare/ai/images/overview/compare_macbook_pro_14_spaceblack__bcacn5s80i9u_large_2x.jpg"
+    },
+    {
+      "model": "MacBook Pro 14-inch (M3 Max)",
+      "file": "images/apple/macbook-pro-14-inch-m3-max.jpg",
+      "source": "https://www.apple.com/v/mac/compare/ai/images/overview/compare_macbook_pro_14_spaceblack__bcacn5s80i9u_large_2x.jpg"
+    },
+    {
+      "model": "MacBook Pro 16-inch (M3 Pro)",
+      "file": "images/apple/macbook-pro-16-inch-m3-pro.jpg",
+      "source": "https://www.apple.com/v/mac/compare/ai/images/overview/compare_macbook_pro_16_spaceblack__f89510vnuemq_large_2x.jpg"
+    },
+    {
+      "model": "MacBook Pro 16-inch (M3 Max)",
+      "file": "images/apple/macbook-pro-16-inch-m3-max.jpg",
+      "source": "https://www.apple.com/v/mac/compare/ai/images/overview/compare_macbook_pro_16_spaceblack__f89510vnuemq_large_2x.jpg"
+    },
+    {
+      "model": "MacBook Pro 14-inch PROLED XDR (M5 Pro)",
+      "file": "images/apple/macbook-pro-14-inch-proled-xdr-m5-pro.jpg",
+      "source": "https://www.apple.com/v/mac/compare/ai/images/overview/compare_macbook_pro_proled_xdr_m5_14_spaceblack__bs4ovtejo12a_large_2x.jpg"
+    },
+    {
+      "model": "MacBook Pro 14-inch PROLED XDR (M5 Max)",
+      "file": "images/apple/macbook-pro-14-inch-proled-xdr-m5-max.jpg",
+      "source": "https://www.apple.com/v/mac/compare/ai/images/overview/compare_macbook_pro_proled_xdr_m5_14_spaceblack__bs4ovtejo12a_large_2x.jpg"
+    },
+    {
+      "model": "MacBook Pro 16-inch PROLED XDR (M5 Pro)",
+      "file": "images/apple/macbook-pro-16-inch-proled-xdr-m5-pro.jpg",
+      "source": "https://www.apple.com/v/mac/compare/ai/images/overview/compare_macbook_pro_proled_xdr_m5_16_spaceblack__csd1lcieilea_large_2x.jpg"
+    },
+    {
+      "model": "MacBook Pro 16-inch PROLED XDR (M5 Max)",
+      "file": "images/apple/macbook-pro-16-inch-proled-xdr-m5-max.jpg",
+      "source": "https://www.apple.com/v/mac/compare/ai/images/overview/compare_macbook_pro_proled_xdr_m5_16_spaceblack__csd1lcieilea_large_2x.jpg"
+    }
+  ],
+  "variantImages": [
+    {
+      "model": "iPhone Duo",
+      "color": "Star White",
+      "file": "images/apple/variants/101-star-white.jpg",
+      "source": "https://www.apple.com/v/iphone/compare/an/images/overview/compare_iphone_duo_star_white__f2s3n9ds95ay_large_2x.jpg"
+    },
+    {
+      "model": "iPhone Duo",
+      "color": "Night Sky",
+      "file": "images/apple/variants/101-night-sky.jpg",
+      "source": "https://www.apple.com/v/iphone/compare/an/images/overview/compare_iphone_duo_night_sky__l4khpo7rqpeu_large_2x.jpg"
+    },
+    {
+      "model": "iPhone 18 Pro",
+      "color": "Burgundy",
+      "file": "images/apple/variants/102-burgundy.jpg",
+      "source": "https://www.apple.com/v/iphone/compare/an/images/overview/compare_iphone_18_pro_burgundy__mdv9ns7r6oa6_large_2x.jpg"
+    },
+    {
+      "model": "iPhone 18 Pro",
+      "color": "Glacier",
+      "file": "images/apple/variants/102-glacier.jpg",
+      "source": "https://www.apple.com/v/iphone/compare/an/images/overview/compare_iphone_18_pro_glacier__f830jkql73iy_large_2x.jpg"
+    },
+    {
+      "model": "iPhone 18 Pro",
+      "color": "Silver",
+      "file": "images/apple/variants/102-silver.jpg",
+      "source": "https://www.apple.com/v/iphone/compare/an/images/overview/compare_iphone_18_pro_silver__w26x0ab2ln6a_large_2x.jpg"
+    },
+    {
+      "model": "iPhone 18 Pro",
+      "color": "Black",
+      "file": "images/apple/variants/102-black.jpg",
+      "source": "https://www.apple.com/v/iphone/compare/an/images/overview/compare_iphone_18_pro_black__f7t3q1k8wfiq_large_2x.jpg"
+    },
+    {
+      "model": "iPhone 18 Pro Max",
+      "color": "Burgundy",
+      "file": "images/apple/variants/103-burgundy.jpg",
+      "source": "https://www.apple.com/v/iphone/compare/an/images/overview/compare_iphone_18_pro_max_burgundy__dcz67l4005oy_large_2x.jpg"
+    },
+    {
+      "model": "iPhone 18 Pro Max",
+      "color": "Glacier",
+      "file": "images/apple/variants/103-glacier.jpg",
+      "source": "https://www.apple.com/v/iphone/compare/an/images/overview/compare_iphone_18_pro_max_glacier__f6f28qwmryuu_large_2x.jpg"
+    },
+    {
+      "model": "iPhone 18 Pro Max",
+      "color": "Silver",
+      "file": "images/apple/variants/103-silver.jpg",
+      "source": "https://www.apple.com/v/iphone/compare/an/images/overview/compare_iphone_18_pro_max_silver__bkvexz4dqd36_large_2x.jpg"
+    },
+    {
+      "model": "iPhone 18 Pro Max",
+      "color": "Black",
+      "file": "images/apple/variants/103-black.jpg",
+      "source": "https://www.apple.com/v/iphone/compare/an/images/overview/compare_iphone_18_pro_max_black__s6eln189sr2u_large_2x.jpg"
+    },
+    {
+      "model": "iPhone Air",
+      "color": "Sky Blue",
+      "file": "images/apple/variants/104-sky-blue.jpg",
+      "source": "https://www.apple.com/v/iphone/compare/an/images/overview/compare_iphone_air_sky_blue__kvm15b10x6qa_large_2x.jpg"
+    },
+    {
+      "model": "iPhone Air",
+      "color": "Light Gold",
+      "file": "images/apple/variants/104-light-gold.jpg",
+      "source": "https://www.apple.com/v/iphone/compare/an/images/overview/compare_iphone_air_light_gold__c1s3ly3yjuc2_large_2x.jpg"
+    },
+    {
+      "model": "iPhone Air",
+      "color": "Cloud White",
+      "file": "images/apple/variants/104-cloud-white.jpg",
+      "source": "https://www.apple.com/v/iphone/compare/an/images/overview/compare_iphone_air_cloud_white__fay39sc7sru6_large_2x.jpg"
+    },
+    {
+      "model": "iPhone Air",
+      "color": "Space Black",
+      "file": "images/apple/variants/104-space-black.jpg",
+      "source": "https://www.apple.com/v/iphone/compare/an/images/overview/compare_iphone_air_space_black__erjeo9fa6oa6_large_2x.jpg"
+    },
+    {
+      "model": "iPhone 17",
+      "color": "Lavender",
+      "file": "images/apple/variants/105-lavender.jpg",
+      "source": "https://www.apple.com/v/iphone/compare/an/images/overview/compare_iphone17_lavender__etuerbkei0ya_large_2x.jpg"
+    },
+    {
+      "model": "iPhone 17",
+      "color": "Sage",
+      "file": "images/apple/variants/105-sage.jpg",
+      "source": "https://www.apple.com/v/iphone/compare/an/images/overview/compare_iphone17_sage__edsxj53vsn0i_large_2x.jpg"
+    },
+    {
+      "model": "iPhone 17",
+      "color": "Mist Blue",
+      "file": "images/apple/variants/105-mist-blue.jpg",
+      "source": "https://www.apple.com/v/iphone/compare/an/images/overview/compare_iphone17_mist_blue__fjf0c9euujee_large_2x.jpg"
+    },
+    {
+      "model": "iPhone 17",
+      "color": "White",
+      "file": "images/apple/variants/105-white.jpg",
+      "source": "https://www.apple.com/v/iphone/compare/an/images/overview/compare_iphone17_white__cddjqf5mzlaq_large_2x.jpg"
+    },
+    {
+      "model": "iPhone 17",
+      "color": "Black",
+      "file": "images/apple/variants/105-black.jpg",
+      "source": "https://www.apple.com/v/iphone/compare/an/images/overview/compare_iphone17_black__epmfmcpap0sy_large_2x.jpg"
+    },
+    {
+      "model": "iPhone 17e",
+      "color": "Soft Pink",
+      "file": "images/apple/variants/106-soft-pink.jpg",
+      "source": "https://www.apple.com/v/iphone/compare/an/images/overview/compare_iphone17e_pink__bj426l1s94gi_large_2x.jpg"
+    },
+    {
+      "model": "iPhone 17e",
+      "color": "White",
+      "file": "images/apple/variants/106-white.jpg",
+      "source": "https://www.apple.com/v/iphone/compare/an/images/overview/compare_iphone17e_white__dznzme1jxvki_large_2x.jpg"
+    },
+    {
+      "model": "iPhone 17e",
+      "color": "Black",
+      "file": "images/apple/variants/106-black.jpg",
+      "source": "https://www.apple.com/v/iphone/compare/an/images/overview/compare_iphone17e_black__f8ox5biet3au_large_2x.jpg"
+    },
+    {
+      "model": "iPhone 17 Pro",
+      "color": "Cosmic Orange",
+      "file": "images/apple/variants/107-cosmic-orange.jpg",
+      "source": "https://www.apple.com/v/iphone/compare/an/images/overview/compare_iphone17_pro_cosmic_orange__dm1qripnvq82_large_2x.jpg"
+    },
+    {
+      "model": "iPhone 17 Pro",
+      "color": "Deep Blue",
+      "file": "images/apple/variants/107-deep-blue.jpg",
+      "source": "https://www.apple.com/v/iphone/compare/an/images/overview/compare_iphone17_pro_deep_blue__dz8sfcp4h742_large_2x.jpg"
+    },
+    {
+      "model": "iPhone 17 Pro",
+      "color": "Silver",
+      "file": "images/apple/variants/107-silver.jpg",
+      "source": "https://www.apple.com/v/iphone/compare/an/images/overview/compare_iphone17_pro_silver__c7bbt5uwieye_large_2x.jpg"
+    },
+    {
+      "model": "iPhone 17 Pro Max",
+      "color": "Cosmic Orange",
+      "file": "images/apple/variants/108-cosmic-orange.jpg",
+      "source": "https://www.apple.com/v/iphone/compare/an/images/overview/compare_iphone17_pro_max_cosmic_orange__d7yolstz8cmu_large_2x.jpg"
+    },
+    {
+      "model": "iPhone 17 Pro Max",
+      "color": "Deep Blue",
+      "file": "images/apple/variants/108-deep-blue.jpg",
+      "source": "https://www.apple.com/v/iphone/compare/an/images/overview/compare_iphone17_pro_max_deep_blue__frgcd836v866_large_2x.jpg"
+    },
+    {
+      "model": "iPhone 17 Pro Max",
+      "color": "Silver",
+      "file": "images/apple/variants/108-silver.jpg",
+      "source": "https://www.apple.com/v/iphone/compare/an/images/overview/compare_iphone17_pro_max_silver__dtw5i9e8osmu_large_2x.jpg"
+    },
+    {
+      "model": "iPhone 16",
+      "color": "Ultramarine",
+      "file": "images/apple/variants/109-ultramarine.jpg",
+      "source": "https://www.apple.com/v/iphone/compare/an/images/overview/compare_iphone16_ultramarine__sr260qois4am_large_2x.jpg"
+    },
+    {
+      "model": "iPhone 16",
+      "color": "Teal",
+      "file": "images/apple/variants/109-teal.jpg",
+      "source": "https://www.apple.com/v/iphone/compare/an/images/overview/compare_iphone16_teal__fkzqehm57iai_large_2x.jpg"
+    },
+    {
+      "model": "iPhone 16",
+      "color": "Pink",
+      "file": "images/apple/variants/109-pink.jpg",
+      "source": "https://www.apple.com/v/iphone/compare/an/images/overview/compare_iphone16_pink__fzr1z22a7m2q_large_2x.jpg"
+    },
+    {
+      "model": "iPhone 16",
+      "color": "White",
+      "file": "images/apple/variants/109-white.jpg",
+      "source": "https://www.apple.com/v/iphone/compare/an/images/overview/compare_iphone16_white__dcn5vobxo7ki_large_2x.jpg"
+    },
+    {
+      "model": "iPhone 16",
+      "color": "Black",
+      "file": "images/apple/variants/109-black.jpg",
+      "source": "https://www.apple.com/v/iphone/compare/an/images/overview/compare_iphone16_black__bedc0hlw316q_large_2x.jpg"
+    },
+    {
+      "model": "iPhone 16 Plus",
+      "color": "Ultramarine",
+      "file": "images/apple/variants/110-ultramarine.jpg",
+      "source": "https://www.apple.com/v/iphone/compare/an/images/overview/compare_iphone16_plus_ultramarine__fedlzqf2pmqi_large_2x.jpg"
+    },
+    {
+      "model": "iPhone 16 Plus",
+      "color": "Teal",
+      "file": "images/apple/variants/110-teal.jpg",
+      "source": "https://www.apple.com/v/iphone/compare/an/images/overview/compare_iphone16_plus_teal__fd5m157o5h6y_large_2x.jpg"
+    },
+    {
+      "model": "iPhone 16 Plus",
+      "color": "Pink",
+      "file": "images/apple/variants/110-pink.jpg",
+      "source": "https://www.apple.com/v/iphone/compare/an/images/overview/compare_iphone16_plus_pink__egpda1o8qu82_large_2x.jpg"
+    },
+    {
+      "model": "iPhone 16 Plus",
+      "color": "White",
+      "file": "images/apple/variants/110-white.jpg",
+      "source": "https://www.apple.com/v/iphone/compare/an/images/overview/compare_iphone16_plus_white__rqden70u9uqi_large_2x.jpg"
+    },
+    {
+      "model": "iPhone 16 Plus",
+      "color": "Black",
+      "file": "images/apple/variants/110-black.jpg",
+      "source": "https://www.apple.com/v/iphone/compare/an/images/overview/compare_iphone16_plus_black__fzb15ieuikey_large_2x.jpg"
+    },
+    {
+      "model": "iPhone 16 Pro",
+      "color": "Desert Titanium",
+      "file": "images/apple/variants/111-desert-titanium.jpg",
+      "source": "https://www.apple.com/v/iphone/compare/an/images/overview/compare_iphone16_pro_desert_titanium__ftixjyyve6qi_large_2x.jpg"
+    },
+    {
+      "model": "iPhone 16 Pro",
+      "color": "Natural Titanium",
+      "file": "images/apple/variants/111-natural-titanium.jpg",
+      "source": "https://www.apple.com/v/iphone/compare/an/images/overview/compare_iphone16_pro_natural_titanium__b58sfb3hvv36_large_2x.jpg"
+    },
+    {
+      "model": "iPhone 16 Pro",
+      "color": "White Titanium",
+      "file": "images/apple/variants/111-white-titanium.jpg",
+      "source": "https://www.apple.com/v/iphone/compare/an/images/overview/compare_iphone16_pro_white_titanium__mjfjda73w72q_large_2x.jpg"
+    },
+    {
+      "model": "iPhone 16 Pro",
+      "color": "Black Titanium",
+      "file": "images/apple/variants/111-black-titanium.jpg",
+      "source": "https://www.apple.com/v/iphone/compare/an/images/overview/compare_iphone16_pro_black_titanium__c7t71uah5qky_large_2x.jpg"
+    },
+    {
+      "model": "iPhone 16 Pro Max",
+      "color": "Desert Titanium",
+      "file": "images/apple/variants/112-desert-titanium.jpg",
+      "source": "https://www.apple.com/v/iphone/compare/an/images/overview/compare_iphone16_pro_max_desert_titanium__f8058hcu01ua_large_2x.jpg"
+    },
+    {
+      "model": "iPhone 16 Pro Max",
+      "color": "Natural Titanium",
+      "file": "images/apple/variants/112-natural-titanium.jpg",
+      "source": "https://www.apple.com/v/iphone/compare/an/images/overview/compare_iphone16_pro_max_natural_titanium__finz5cbww0mm_large_2x.jpg"
+    },
+    {
+      "model": "iPhone 16 Pro Max",
+      "color": "White Titanium",
+      "file": "images/apple/variants/112-white-titanium.jpg",
+      "source": "https://www.apple.com/v/iphone/compare/an/images/overview/compare_iphone16_pro_max_white_titanium__nrwzujp5v762_large_2x.jpg"
+    },
+    {
+      "model": "iPhone 16 Pro Max",
+      "color": "Black Titanium",
+      "file": "images/apple/variants/112-black-titanium.jpg",
+      "source": "https://www.apple.com/v/iphone/compare/an/images/overview/compare_iphone16_pro_max_black_titanium__evlilxt8g2mq_large_2x.jpg"
+    },
+    {
+      "model": "iPhone 16e",
+      "color": "White",
+      "file": "images/apple/variants/113-white.jpg",
+      "source": "https://www.apple.com/v/iphone/compare/an/images/overview/compare_iphone16e_white__qfwztyphaj2u_large_2x.jpg"
+    },
+    {
+      "model": "iPhone 16e",
+      "color": "Black",
+      "file": "images/apple/variants/113-black.jpg",
+      "source": "https://www.apple.com/v/iphone/compare/an/images/overview/compare_iphone16e_black__folwa2rvc3ma_large_2x.jpg"
+    },
+    {
+      "model": "iPhone 15",
+      "color": "Pink",
+      "file": "images/apple/variants/114-pink.jpg",
+      "source": "https://www.apple.com/v/iphone/compare/an/images/overview/compare_iphone15_pink__d2gop48s2aye_large_2x.jpg"
+    },
+    {
+      "model": "iPhone 15",
+      "color": "Yellow",
+      "file": "images/apple/variants/114-yellow.jpg",
+      "source": "https://www.apple.com/v/iphone/compare/an/images/overview/compare_iphone15_yellow__bqka09cyvqia_large_2x.jpg"
+    },
+    {
+      "model": "iPhone 15",
+      "color": "Green",
+      "file": "images/apple/variants/114-green.jpg",
+      "source": "https://www.apple.com/v/iphone/compare/an/images/overview/compare_iphone15_green__f6r83449uoyi_large_2x.jpg"
+    },
+    {
+      "model": "iPhone 15",
+      "color": "Blue",
+      "file": "images/apple/variants/114-blue.jpg",
+      "source": "https://www.apple.com/v/iphone/compare/an/images/overview/compare_iphone15_blue__cq4qefddyl8i_large_2x.jpg"
+    },
+    {
+      "model": "iPhone 15",
+      "color": "Black",
+      "file": "images/apple/variants/114-black.jpg",
+      "source": "https://www.apple.com/v/iphone/compare/an/images/overview/compare_iphone15_black__eer8kwdkdjyq_large_2x.jpg"
+    },
+    {
+      "model": "iPhone 15 Plus",
+      "color": "Pink",
+      "file": "images/apple/variants/115-pink.jpg",
+      "source": "https://www.apple.com/v/iphone/compare/an/images/overview/compare_iphone15_plus_pink__fai0b9il6cq6_large_2x.jpg"
+    },
+    {
+      "model": "iPhone 15 Plus",
+      "color": "Yellow",
+      "file": "images/apple/variants/115-yellow.jpg",
+      "source": "https://www.apple.com/v/iphone/compare/an/images/overview/compare_iphone15_plus_yellow__bqpclyoi3muu_large_2x.jpg"
+    },
+    {
+      "model": "iPhone 15 Plus",
+      "color": "Green",
+      "file": "images/apple/variants/115-green.jpg",
+      "source": "https://www.apple.com/v/iphone/compare/an/images/overview/compare_iphone15_plus_green__c2dkb4wvkgae_large_2x.jpg"
+    },
+    {
+      "model": "iPhone 15 Plus",
+      "color": "Blue",
+      "file": "images/apple/variants/115-blue.jpg",
+      "source": "https://www.apple.com/v/iphone/compare/an/images/overview/compare_iphone15_plus_blue__9fcof0t4lk2i_large_2x.jpg"
+    },
+    {
+      "model": "iPhone 15 Plus",
+      "color": "Black",
+      "file": "images/apple/variants/115-black.jpg",
+      "source": "https://www.apple.com/v/iphone/compare/an/images/overview/compare_iphone15_plus_black__chh9za6pd2vm_large_2x.jpg"
+    },
+    {
+      "model": "iPhone 15 Pro",
+      "color": "Natural Titanium",
+      "file": "images/apple/variants/116-natural-titanium.jpg",
+      "source": "https://www.apple.com/v/iphone/compare/an/images/overview/compare_iphone15_pro_natural_titanium__scqfo7q20n2i_large_2x.jpg"
+    },
+    {
+      "model": "iPhone 15 Pro",
+      "color": "Blue Titanium",
+      "file": "images/apple/variants/116-blue-titanium.jpg",
+      "source": "https://www.apple.com/v/iphone/compare/an/images/overview/compare_iphone15_pro_blue_titanium__bima7n6vpb0i_large_2x.jpg"
+    },
+    {
+      "model": "iPhone 15 Pro",
+      "color": "White Titanium",
+      "file": "images/apple/variants/116-white-titanium.jpg",
+      "source": "https://www.apple.com/v/iphone/compare/an/images/overview/compare_iphone15_pro_white_titanium__gnb53137x2um_large_2x.jpg"
+    },
+    {
+      "model": "iPhone 15 Pro",
+      "color": "Black Titanium",
+      "file": "images/apple/variants/116-black-titanium.jpg",
+      "source": "https://www.apple.com/v/iphone/compare/an/images/overview/compare_iphone15_pro_black_titanium__etz96gq8ruoi_large_2x.jpg"
+    },
+    {
+      "model": "iPhone 15 Pro Max",
+      "color": "Natural Titanium",
+      "file": "images/apple/variants/117-natural-titanium.jpg",
+      "source": "https://www.apple.com/v/iphone/compare/an/images/overview/compare_iphone15_pro_max_natural_titanium__byvhspupwiuq_large_2x.jpg"
+    },
+    {
+      "model": "iPhone 15 Pro Max",
+      "color": "Blue Titanium",
+      "file": "images/apple/variants/117-blue-titanium.jpg",
+      "source": "https://www.apple.com/v/iphone/compare/an/images/overview/compare_iphone15_pro_max_blue_titanium__c8xeminnbm82_large_2x.jpg"
+    },
+    {
+      "model": "iPhone 15 Pro Max",
+      "color": "White Titanium",
+      "file": "images/apple/variants/117-white-titanium.jpg",
+      "source": "https://www.apple.com/v/iphone/compare/an/images/overview/compare_iphone15_pro_max_white_titanium__citdiqo2e0gi_large_2x.jpg"
+    },
+    {
+      "model": "iPhone 15 Pro Max",
+      "color": "Black Titanium",
+      "file": "images/apple/variants/117-black-titanium.jpg",
+      "source": "https://www.apple.com/v/iphone/compare/an/images/overview/compare_iphone15_pro_max_black_titanium__djidfm1dcmie_large_2x.jpg"
+    },
+    {
+      "model": "iPad Pro 11-inch (M5)",
+      "color": "Space Black",
+      "file": "images/apple/variants/118-space-black.jpg",
+      "source": "https://www.apple.com/v/ipad/compare/an/images/overview/ipad_pro_11_m4_spaceblack__eoez1rzzqmye_large_2x.jpg"
+    },
+    {
+      "model": "iPad Pro 11-inch (M5)",
+      "color": "Silver",
+      "file": "images/apple/variants/118-silver.jpg",
+      "source": "https://www.apple.com/v/ipad/compare/an/images/overview/ipad_pro_11_m4_silver__eowi3mx395qq_large_2x.jpg"
+    },
+    {
+      "model": "iPad Pro 13-inch (M5)",
+      "color": "Space Black",
+      "file": "images/apple/variants/119-space-black.jpg",
+      "source": "https://www.apple.com/v/ipad/compare/an/images/overview/ipad_pro_13_m5_spaceblack__eim4xjmegeuu_large_2x.jpg"
+    },
+    {
+      "model": "iPad Pro 13-inch (M5)",
+      "color": "Silver",
+      "file": "images/apple/variants/119-silver.jpg",
+      "source": "https://www.apple.com/v/ipad/compare/an/images/overview/ipad_pro_13_m5_silver__dyubev4o3s8y_large_2x.jpg"
+    },
+    {
+      "model": "iPad Pro 11-inch (M4)",
+      "color": "Space Black",
+      "file": "images/apple/variants/120-space-black.jpg",
+      "source": "https://www.apple.com/v/ipad/compare/an/images/overview/ipad_pro_11_m4_spaceblack__eoez1rzzqmye_large_2x.jpg"
+    },
+    {
+      "model": "iPad Pro 11-inch (M4)",
+      "color": "Silver",
+      "file": "images/apple/variants/120-silver.jpg",
+      "source": "https://www.apple.com/v/ipad/compare/an/images/overview/ipad_pro_11_m4_silver__eowi3mx395qq_large_2x.jpg"
+    },
+    {
+      "model": "iPad Pro 13-inch (M4)",
+      "color": "Space Black",
+      "file": "images/apple/variants/121-space-black.jpg",
+      "source": "https://www.apple.com/v/ipad/compare/an/images/overview/ipad_pro_13_m4_spaceblack__bq18ddlcrtaq_large_2x.jpg"
+    },
+    {
+      "model": "iPad Pro 13-inch (M4)",
+      "color": "Silver",
+      "file": "images/apple/variants/121-silver.jpg",
+      "source": "https://www.apple.com/v/ipad/compare/an/images/overview/ipad_pro_13_m4_silver__f6alcd7cbhe2_large_2x.jpg"
+    },
+    {
+      "model": "iPad Air 11-inch (M4)",
+      "color": "Space Gray",
+      "file": "images/apple/variants/122-space-gray.jpg",
+      "source": "https://www.apple.com/v/ipad/compare/an/images/overview/ipad_air_11_m4_spacegray__foa0ijnqpi2y_large_2x.jpg"
+    },
+    {
+      "model": "iPad Air 11-inch (M4)",
+      "color": "Blue",
+      "file": "images/apple/variants/122-blue.jpg",
+      "source": "https://www.apple.com/v/ipad/compare/an/images/overview/ipad_air_11_m4_blue__exgp5c6s4zgy_large_2x.jpg"
+    },
+    {
+      "model": "iPad Air 11-inch (M4)",
+      "color": "Purple",
+      "file": "images/apple/variants/122-purple.jpg",
+      "source": "https://www.apple.com/v/ipad/compare/an/images/overview/ipad_air_11_m4_purple__dc5imizwemwm_large_2x.jpg"
+    },
+    {
+      "model": "iPad Air 11-inch (M4)",
+      "color": "Starlight",
+      "file": "images/apple/variants/122-starlight.jpg",
+      "source": "https://www.apple.com/v/ipad/compare/an/images/overview/ipad_air_11_m4_starlight__ckjmo75jgej6_large_2x.jpg"
+    },
+    {
+      "model": "iPad Air 13-inch (M4)",
+      "color": "Space Gray",
+      "file": "images/apple/variants/123-space-gray.jpg",
+      "source": "https://www.apple.com/v/ipad/compare/an/images/overview/ipad_air_13_m4_spacegray__cfa9j5sb9amq_large_2x.jpg"
+    },
+    {
+      "model": "iPad Air 13-inch (M4)",
+      "color": "Blue",
+      "file": "images/apple/variants/123-blue.jpg",
+      "source": "https://www.apple.com/v/ipad/compare/an/images/overview/ipad_air_13_m4_blue__dvsjwapfvuc2_large_2x.jpg"
+    },
+    {
+      "model": "iPad Air 13-inch (M4)",
+      "color": "Purple",
+      "file": "images/apple/variants/123-purple.jpg",
+      "source": "https://www.apple.com/v/ipad/compare/an/images/overview/ipad_air_13_m4_purple__er7s81uf4s6e_large_2x.jpg"
+    },
+    {
+      "model": "iPad Air 13-inch (M4)",
+      "color": "Starlight",
+      "file": "images/apple/variants/123-starlight.jpg",
+      "source": "https://www.apple.com/v/ipad/compare/an/images/overview/ipad_air_13_m4_starlight__eqw67ji419w2_large_2x.jpg"
+    },
+    {
+      "model": "iPad Air 11-inch (M3)",
+      "color": "Space Gray",
+      "file": "images/apple/variants/124-space-gray.jpg",
+      "source": "https://www.apple.com/v/ipad/compare/an/images/overview/ipad_air_11_m3_spacegray__btc86zw1glbm_large_2x.jpg"
+    },
+    {
+      "model": "iPad Air 11-inch (M3)",
+      "color": "Blue",
+      "file": "images/apple/variants/124-blue.jpg",
+      "source": "https://www.apple.com/v/ipad/compare/an/images/overview/ipad_air_11_m3_blue__gbre4u4if6em_large_2x.jpg"
+    },
+    {
+      "model": "iPad Air 11-inch (M3)",
+      "color": "Purple",
+      "file": "images/apple/variants/124-purple.jpg",
+      "source": "https://www.apple.com/v/ipad/compare/an/images/overview/ipad_air_11_m3_purple__b6zq5qcxu9ci_large_2x.jpg"
+    },
+    {
+      "model": "iPad Air 11-inch (M3)",
+      "color": "Starlight",
+      "file": "images/apple/variants/124-starlight.jpg",
+      "source": "https://www.apple.com/v/ipad/compare/an/images/overview/ipad_air_11_m3_starlight__dn8rod7w6cia_large_2x.jpg"
+    },
+    {
+      "model": "iPad Air 13-inch (M3)",
+      "color": "Space Gray",
+      "file": "images/apple/variants/125-space-gray.jpg",
+      "source": "https://www.apple.com/v/ipad/compare/an/images/overview/ipad_air_13_m3_spacegray__fu35tug8txua_large_2x.jpg"
+    },
+    {
+      "model": "iPad Air 13-inch (M3)",
+      "color": "Blue",
+      "file": "images/apple/variants/125-blue.jpg",
+      "source": "https://www.apple.com/v/ipad/compare/an/images/overview/ipad_air_13_m3_blue__gahhpn9r2pea_large_2x.jpg"
+    },
+    {
+      "model": "iPad Air 13-inch (M3)",
+      "color": "Purple",
+      "file": "images/apple/variants/125-purple.jpg",
+      "source": "https://www.apple.com/v/ipad/compare/an/images/overview/ipad_air_13_m3_purple__d86auskkzl4y_large_2x.jpg"
+    },
+    {
+      "model": "iPad Air 13-inch (M3)",
+      "color": "Starlight",
+      "file": "images/apple/variants/125-starlight.jpg",
+      "source": "https://www.apple.com/v/ipad/compare/an/images/overview/ipad_air_13_m3_starlight__bs14uq1fwa4i_large_2x.jpg"
+    },
+    {
+      "model": "iPad Air 11-inch (M2)",
+      "color": "Space Gray",
+      "file": "images/apple/variants/126-space-gray.jpg",
+      "source": "https://www.apple.com/v/ipad/compare/an/images/overview/ipad_air_11_m2_spacegray__fxfqpx3pa8uq_large_2x.jpg"
+    },
+    {
+      "model": "iPad Air 11-inch (M2)",
+      "color": "Blue",
+      "file": "images/apple/variants/126-blue.jpg",
+      "source": "https://www.apple.com/v/ipad/compare/an/images/overview/ipad_air_11_m2_blue__ceyxgnf4v9yu_large_2x.jpg"
+    },
+    {
+      "model": "iPad Air 11-inch (M2)",
+      "color": "Purple",
+      "file": "images/apple/variants/126-purple.jpg",
+      "source": "https://www.apple.com/v/ipad/compare/an/images/overview/ipad_air_11_m2_purple__c0oyj0a77r8m_large_2x.jpg"
+    },
+    {
+      "model": "iPad Air 11-inch (M2)",
+      "color": "Starlight",
+      "file": "images/apple/variants/126-starlight.jpg",
+      "source": "https://www.apple.com/v/ipad/compare/an/images/overview/ipad_air_11_m2_starlight__ckwaepn8ukdy_large_2x.jpg"
+    },
+    {
+      "model": "iPad Air 13-inch (M2)",
+      "color": "Space Gray",
+      "file": "images/apple/variants/127-space-gray.jpg",
+      "source": "https://www.apple.com/v/ipad/compare/an/images/overview/ipad_air_13_m2_spacegray__gcc85aj02pme_large_2x.jpg"
+    },
+    {
+      "model": "iPad Air 13-inch (M2)",
+      "color": "Blue",
+      "file": "images/apple/variants/127-blue.jpg",
+      "source": "https://www.apple.com/v/ipad/compare/an/images/overview/ipad_air_13_m2_blue__da7jlku5oe2q_large_2x.jpg"
+    },
+    {
+      "model": "iPad Air 13-inch (M2)",
+      "color": "Purple",
+      "file": "images/apple/variants/127-purple.jpg",
+      "source": "https://www.apple.com/v/ipad/compare/an/images/overview/ipad_air_13_m2_purple__o6um0g2o5eie_large_2x.jpg"
+    },
+    {
+      "model": "iPad Air 13-inch (M2)",
+      "color": "Starlight",
+      "file": "images/apple/variants/127-starlight.jpg",
+      "source": "https://www.apple.com/v/ipad/compare/an/images/overview/ipad_air_13_m2_starlight__e7goijeag3wy_large_2x.jpg"
+    },
+    {
+      "model": "iPad (A16)",
+      "color": "Blue",
+      "file": "images/apple/variants/128-blue.jpg",
+      "source": "https://www.apple.com/v/ipad/compare/an/images/overview/ipad_11th_a16_blue__eyfta89o7eie_large_2x.jpg"
+    },
+    {
+      "model": "iPad (A16)",
+      "color": "Pink",
+      "file": "images/apple/variants/128-pink.jpg",
+      "source": "https://www.apple.com/v/ipad/compare/an/images/overview/ipad_11th_a16_pink__fz6ag0ueptme_large_2x.jpg"
+    },
+    {
+      "model": "iPad (A16)",
+      "color": "Yellow",
+      "file": "images/apple/variants/128-yellow.jpg",
+      "source": "https://www.apple.com/v/ipad/compare/an/images/overview/ipad_11th_a16_yellow__ef6aso27omye_large_2x.jpg"
+    },
+    {
+      "model": "iPad (A16)",
+      "color": "Silver",
+      "file": "images/apple/variants/128-silver.jpg",
+      "source": "https://www.apple.com/v/ipad/compare/an/images/overview/ipad_11th_a16_silver__cby9d710dnhy_large_2x.jpg"
+    },
+    {
+      "model": "iPad mini (A20 Pro)",
+      "color": "Midnight",
+      "file": "images/apple/variants/129-midnight.jpg",
+      "source": "https://www.apple.com/v/ipad/compare/an/images/overview/ipad_mini_a20pro_midnight__cuk6syewoc6e_large_2x.jpg"
+    },
+    {
+      "model": "iPad mini (A20 Pro)",
+      "color": "Starlight",
+      "file": "images/apple/variants/129-starlight.jpg",
+      "source": "https://www.apple.com/v/ipad/compare/an/images/overview/ipad_mini_a20pro_starlight__e8xd0qzz95ua_large_2x.jpg"
+    },
+    {
+      "model": "iPad mini (A17 Pro)",
+      "color": "Space Gray",
+      "file": "images/apple/variants/130-space-gray.jpg",
+      "source": "https://www.apple.com/v/ipad/compare/an/images/overview/ipad_mini_a17pro_space_gray__fuoqzhobakmm_large_2x.jpg"
+    },
+    {
+      "model": "iPad mini (A17 Pro)",
+      "color": "Blue",
+      "file": "images/apple/variants/130-blue.jpg",
+      "source": "https://www.apple.com/v/ipad/compare/an/images/overview/ipad_mini_a17pro_blue__dts9gmhjopqq_large_2x.jpg"
+    },
+    {
+      "model": "iPad mini (A17 Pro)",
+      "color": "Purple",
+      "file": "images/apple/variants/130-purple.jpg",
+      "source": "https://www.apple.com/v/ipad/compare/an/images/overview/ipad_mini_a17pro_purple__fmynaicxwpiu_large_2x.jpg"
+    },
+    {
+      "model": "iPad mini (A17 Pro)",
+      "color": "Starlight",
+      "file": "images/apple/variants/130-starlight.jpg",
+      "source": "https://www.apple.com/v/ipad/compare/an/images/overview/ipad_mini_a17pro_starlight__d4ys99orc88y_large_2x.jpg"
+    },
+    {
+      "model": "iPad (10th generation)",
+      "color": "Blue",
+      "file": "images/apple/variants/131-blue.jpg",
+      "source": "https://www.apple.com/v/ipad/compare/an/images/overview/ipad_10th_gen_blue__c37qgd892qie_large_2x.jpg"
+    },
+    {
+      "model": "iPad (10th generation)",
+      "color": "Pink",
+      "file": "images/apple/variants/131-pink.jpg",
+      "source": "https://www.apple.com/v/ipad/compare/an/images/overview/ipad_10th_gen_pink__dz5vb33pwf42_large_2x.jpg"
+    },
+    {
+      "model": "iPad (10th generation)",
+      "color": "Yellow",
+      "file": "images/apple/variants/131-yellow.jpg",
+      "source": "https://www.apple.com/v/ipad/compare/an/images/overview/ipad_10th_gen_yellow__cz7aie2nj1km_large_2x.jpg"
+    },
+    {
+      "model": "iPad (10th generation)",
+      "color": "Silver",
+      "file": "images/apple/variants/131-silver.jpg",
+      "source": "https://www.apple.com/v/ipad/compare/an/images/overview/ipad_10th_gen_silver__bcltqap7fxw2_large_2x.jpg"
+    },
+    {
+      "model": "iPad Air (5th generation)",
+      "color": "Space Gray",
+      "file": "images/apple/variants/132-space-gray.jpg",
+      "source": "https://www.apple.com/v/ipad/compare/an/images/overview/ipad_air_5th_gen_spacegray__7p68ktzxkwyi_large_2x.jpg"
+    },
+    {
+      "model": "iPad Air (5th generation)",
+      "color": "Blue",
+      "file": "images/apple/variants/132-blue.jpg",
+      "source": "https://www.apple.com/v/ipad/compare/an/images/overview/ipad_air_5th_gen_blue__bmwunk0isghe_large_2x.jpg"
+    },
+    {
+      "model": "iPad Air (5th generation)",
+      "color": "Pink",
+      "file": "images/apple/variants/132-pink.jpg",
+      "source": "https://www.apple.com/v/ipad/compare/an/images/overview/ipad_air_5th_gen_pink__d86xr05oa6mq_large_2x.jpg"
+    },
+    {
+      "model": "iPad Air (5th generation)",
+      "color": "Purple",
+      "file": "images/apple/variants/132-purple.jpg",
+      "source": "https://www.apple.com/v/ipad/compare/an/images/overview/ipad_air_5th_gen_purple__r3p809f7jgay_large_2x.jpg"
+    },
+    {
+      "model": "iPad Air (5th generation)",
+      "color": "Starlight",
+      "file": "images/apple/variants/132-starlight.jpg",
+      "source": "https://www.apple.com/v/ipad/compare/an/images/overview/ipad_air_5th_gen_starlight__cl6foy5801jm_large_2x.jpg"
+    },
+    {
+      "model": "iPad Pro 11-inch (4th generation)",
+      "color": "Space Gray",
+      "file": "images/apple/variants/133-space-gray.jpg",
+      "source": "https://www.apple.com/v/ipad/compare/an/images/overview/ipad_pro_11_4th_gen_spacegray__fhanffq09pim_large_2x.jpg"
+    },
+    {
+      "model": "iPad Pro 11-inch (4th generation)",
+      "color": "Silver",
+      "file": "images/apple/variants/133-silver.jpg",
+      "source": "https://www.apple.com/v/ipad/compare/an/images/overview/ipad_pro_11_4th_gen_silver__bn1972i7xsdy_large_2x.jpg"
+    },
+    {
+      "model": "iPad Pro 12.9-inch (6th generation)",
+      "color": "Space Gray",
+      "file": "images/apple/variants/134-space-gray.jpg",
+      "source": "https://www.apple.com/v/ipad/compare/an/images/overview/ipad_pro_12_9_6th_gen_spacegray__er50uf4o1smu_large_2x.jpg"
+    },
+    {
+      "model": "iPad Pro 12.9-inch (6th generation)",
+      "color": "Silver",
+      "file": "images/apple/variants/134-silver.jpg",
+      "source": "https://www.apple.com/v/ipad/compare/an/images/overview/ipad_pro_12_9_6th_gen_silver__b6tr6m3qil6q_large_2x.jpg"
+    },
+    {
+      "model": "MacBook Neo (A18 Pro)",
+      "color": "Silver",
+      "file": "images/apple/variants/135-silver.jpg",
+      "source": "https://www.apple.com/v/mac/compare/ai/images/overview/compare_macbook_neo_a18_silver__d23cbmwh42eu_large_2x.jpg"
+    },
+    {
+      "model": "MacBook Neo (A18 Pro)",
+      "color": "Blush",
+      "file": "images/apple/variants/135-blush.jpg",
+      "source": "https://www.apple.com/v/mac/compare/ai/images/overview/compare_macbook_neo_a18_blush__daz2o3t268qe_large_2x.jpg"
+    },
+    {
+      "model": "MacBook Neo (A18 Pro)",
+      "color": "Citrus",
+      "file": "images/apple/variants/135-citrus.jpg",
+      "source": "https://www.apple.com/v/mac/compare/ai/images/overview/compare_macbook_neo_a18_citrus__25g9b9zbiwiu_large_2x.jpg"
+    },
+    {
+      "model": "MacBook Neo (A18 Pro)",
+      "color": "Indigo",
+      "file": "images/apple/variants/135-indigo.jpg",
+      "source": "https://www.apple.com/v/mac/compare/ai/images/overview/compare_macbook_neo_a18_indigo__q3w7yzdxc2im_large_2x.jpg"
+    },
+    {
+      "model": "MacBook Air 13-inch (M5)",
+      "color": "Sky Blue",
+      "file": "images/apple/variants/136-sky-blue.jpg",
+      "source": "https://www.apple.com/v/mac/compare/ai/images/overview/compare_macbook_air_m5_skyblue__fty6fmk5v1me_large_2x.jpg"
+    },
+    {
+      "model": "MacBook Air 13-inch (M5)",
+      "color": "Silver",
+      "file": "images/apple/variants/136-silver.jpg",
+      "source": "https://www.apple.com/v/mac/compare/ai/images/overview/compare_macbook_air_m5_silver__bbwooiazy7cy_large_2x.jpg"
+    },
+    {
+      "model": "MacBook Air 13-inch (M5)",
+      "color": "Starlight",
+      "file": "images/apple/variants/136-starlight.jpg",
+      "source": "https://www.apple.com/v/mac/compare/ai/images/overview/compare_macbook_air_m5_starlight__bwz8vshj17ki_large_2x.jpg"
+    },
+    {
+      "model": "MacBook Air 13-inch (M5)",
+      "color": "Midnight",
+      "file": "images/apple/variants/136-midnight.jpg",
+      "source": "https://www.apple.com/v/mac/compare/ai/images/overview/compare_macbook_air_m5_midnight__dsdy6ha5450m_large_2x.jpg"
+    },
+    {
+      "model": "MacBook Air 15-inch (M5)",
+      "color": "Sky Blue",
+      "file": "images/apple/variants/137-sky-blue.jpg",
+      "source": "https://www.apple.com/v/mac/compare/ai/images/overview/compare_macbook_air_m5_15_skyblue__bvkzzp9qmdjm_large_2x.jpg"
+    },
+    {
+      "model": "MacBook Air 15-inch (M5)",
+      "color": "Silver",
+      "file": "images/apple/variants/137-silver.jpg",
+      "source": "https://www.apple.com/v/mac/compare/ai/images/overview/compare_macbook_air_m5_15_silver__gdgd4la8qemq_large_2x.jpg"
+    },
+    {
+      "model": "MacBook Air 15-inch (M5)",
+      "color": "Starlight",
+      "file": "images/apple/variants/137-starlight.jpg",
+      "source": "https://www.apple.com/v/mac/compare/ai/images/overview/compare_macbook_air_m5_15_starlight__f89sxr5uo1qq_large_2x.jpg"
+    },
+    {
+      "model": "MacBook Air 15-inch (M5)",
+      "color": "Midnight",
+      "file": "images/apple/variants/137-midnight.jpg",
+      "source": "https://www.apple.com/v/mac/compare/ai/images/overview/compare_macbook_air_m5_15_midnight__fhljrimm88i2_large_2x.jpg"
+    },
+    {
+      "model": "MacBook Air 13-inch (M4)",
+      "color": "Sky Blue",
+      "file": "images/apple/variants/138-sky-blue.jpg",
+      "source": "https://www.apple.com/v/mac/compare/ai/images/overview/compare_macbook_air_mx_skyblue__ewtkcxzt8hme_large_2x.jpg"
+    },
+    {
+      "model": "MacBook Air 13-inch (M4)",
+      "color": "Silver",
+      "file": "images/apple/variants/138-silver.jpg",
+      "source": "https://www.apple.com/v/mac/compare/ai/images/overview/compare_macbook_air_mx_silver__6nbuljz40wym_large_2x.jpg"
+    },
+    {
+      "model": "MacBook Air 13-inch (M4)",
+      "color": "Starlight",
+      "file": "images/apple/variants/138-starlight.jpg",
+      "source": "https://www.apple.com/v/mac/compare/ai/images/overview/compare_macbook_air_mx_starlight__f4zo7jj82de2_large_2x.jpg"
+    },
+    {
+      "model": "MacBook Air 13-inch (M4)",
+      "color": "Midnight",
+      "file": "images/apple/variants/138-midnight.jpg",
+      "source": "https://www.apple.com/v/mac/compare/ai/images/overview/compare_macbook_air_mx_midnight__ftl6nurjmvyy_large_2x.jpg"
+    },
+    {
+      "model": "MacBook Air 15-inch (M4)",
+      "color": "Sky Blue",
+      "file": "images/apple/variants/139-sky-blue.jpg",
+      "source": "https://www.apple.com/v/mac/compare/ai/images/overview/compare_macbook_air_mx_15_skyblue__ge4xgamh8te2_large_2x.jpg"
+    },
+    {
+      "model": "MacBook Air 15-inch (M4)",
+      "color": "Silver",
+      "file": "images/apple/variants/139-silver.jpg",
+      "source": "https://www.apple.com/v/mac/compare/ai/images/overview/compare_macbook_air_mx_15_silver__bthqnr9v8po2_large_2x.jpg"
+    },
+    {
+      "model": "MacBook Air 15-inch (M4)",
+      "color": "Starlight",
+      "file": "images/apple/variants/139-starlight.jpg",
+      "source": "https://www.apple.com/v/mac/compare/ai/images/overview/compare_macbook_air_mx_15_starlight__dvxwvxnk8282_large_2x.jpg"
+    },
+    {
+      "model": "MacBook Air 15-inch (M4)",
+      "color": "Midnight",
+      "file": "images/apple/variants/139-midnight.jpg",
+      "source": "https://www.apple.com/v/mac/compare/ai/images/overview/compare_macbook_air_mx_15_midnight__c2xkdctmuwq6_large_2x.jpg"
+    },
+    {
+      "model": "MacBook Air 13-inch (M3)",
+      "color": "Midnight",
+      "file": "images/apple/variants/140-midnight.jpg",
+      "source": "https://www.apple.com/v/mac/compare/ai/images/overview/compare_macbook_air_mx_midnight__ftl6nurjmvyy_large_2x.jpg"
+    },
+    {
+      "model": "MacBook Air 13-inch (M3)",
+      "color": "Starlight",
+      "file": "images/apple/variants/140-starlight.jpg",
+      "source": "https://www.apple.com/v/mac/compare/ai/images/overview/compare_macbook_air_mx_starlight__f4zo7jj82de2_large_2x.jpg"
+    },
+    {
+      "model": "MacBook Air 13-inch (M3)",
+      "color": "Space Gray",
+      "file": "images/apple/variants/140-space-gray.jpg",
+      "source": "https://www.apple.com/v/mac/compare/ai/images/overview/compare_macbook_air_mx_spacegray__hki19guzdwuq_large_2x.jpg"
+    },
+    {
+      "model": "MacBook Air 13-inch (M3)",
+      "color": "Silver",
+      "file": "images/apple/variants/140-silver.jpg",
+      "source": "https://www.apple.com/v/mac/compare/ai/images/overview/compare_macbook_air_mx_silver__6nbuljz40wym_large_2x.jpg"
+    },
+    {
+      "model": "MacBook Air 15-inch (M3)",
+      "color": "Midnight",
+      "file": "images/apple/variants/141-midnight.jpg",
+      "source": "https://www.apple.com/v/mac/compare/ai/images/overview/compare_macbook_air_mx_15_midnight__c2xkdctmuwq6_large_2x.jpg"
+    },
+    {
+      "model": "MacBook Air 15-inch (M3)",
+      "color": "Starlight",
+      "file": "images/apple/variants/141-starlight.jpg",
+      "source": "https://www.apple.com/v/mac/compare/ai/images/overview/compare_macbook_air_mx_15_starlight__dvxwvxnk8282_large_2x.jpg"
+    },
+    {
+      "model": "MacBook Air 15-inch (M3)",
+      "color": "Space Gray",
+      "file": "images/apple/variants/141-space-gray.jpg",
+      "source": "https://www.apple.com/v/mac/compare/ai/images/overview/compare_macbook_air_mx_15_spacegray__1u6jpyc431uy_large_2x.jpg"
+    },
+    {
+      "model": "MacBook Air 15-inch (M3)",
+      "color": "Silver",
+      "file": "images/apple/variants/141-silver.jpg",
+      "source": "https://www.apple.com/v/mac/compare/ai/images/overview/compare_macbook_air_mx_15_silver__bthqnr9v8po2_large_2x.jpg"
+    },
+    {
+      "model": "MacBook Pro 14-inch (M6)",
+      "color": "Space Black",
+      "file": "images/apple/variants/142-space-black.jpg",
+      "source": "https://www.apple.com/v/mac/compare/ai/images/overview/compare_macbook_pro_m5_14_spaceblack__e8bg1b4hasii_large_2x.jpg"
+    },
+    {
+      "model": "MacBook Pro 14-inch (M6)",
+      "color": "Silver",
+      "file": "images/apple/variants/142-silver.jpg",
+      "source": "https://www.apple.com/v/mac/compare/ai/images/overview/compare_macbook_pro_m5_14_silver__gjpnrwj6g4qe_large_2x.jpg"
+    },
+    {
+      "model": "MacBook Pro 14-inch (M5)",
+      "color": "Space Black",
+      "file": "images/apple/variants/143-space-black.jpg",
+      "source": "https://www.apple.com/v/mac/compare/ai/images/overview/compare_macbook_pro_m5_14_spaceblack__e8bg1b4hasii_large_2x.jpg"
+    },
+    {
+      "model": "MacBook Pro 14-inch (M5)",
+      "color": "Silver",
+      "file": "images/apple/variants/143-silver.jpg",
+      "source": "https://www.apple.com/v/mac/compare/ai/images/overview/compare_macbook_pro_m5_14_silver__gjpnrwj6g4qe_large_2x.jpg"
+    },
+    {
+      "model": "MacBook Pro 14-inch (M5 Pro)",
+      "color": "Space Black",
+      "file": "images/apple/variants/144-space-black.jpg",
+      "source": "https://www.apple.com/v/mac/compare/ai/images/overview/compare_macbook_pro_m5_14_spaceblack__e8bg1b4hasii_large_2x.jpg"
+    },
+    {
+      "model": "MacBook Pro 14-inch (M5 Pro)",
+      "color": "Silver",
+      "file": "images/apple/variants/144-silver.jpg",
+      "source": "https://www.apple.com/v/mac/compare/ai/images/overview/compare_macbook_pro_m5_14_silver__gjpnrwj6g4qe_large_2x.jpg"
+    },
+    {
+      "model": "MacBook Pro 14-inch (M5 Max)",
+      "color": "Space Black",
+      "file": "images/apple/variants/145-space-black.jpg",
+      "source": "https://www.apple.com/v/mac/compare/ai/images/overview/compare_macbook_pro_m5_14_spaceblack__e8bg1b4hasii_large_2x.jpg"
+    },
+    {
+      "model": "MacBook Pro 14-inch (M5 Max)",
+      "color": "Silver",
+      "file": "images/apple/variants/145-silver.jpg",
+      "source": "https://www.apple.com/v/mac/compare/ai/images/overview/compare_macbook_pro_m5_14_silver__gjpnrwj6g4qe_large_2x.jpg"
+    },
+    {
+      "model": "MacBook Pro 16-inch (M5 Pro)",
+      "color": "Space Black",
+      "file": "images/apple/variants/146-space-black.jpg",
+      "source": "https://www.apple.com/v/mac/compare/ai/images/overview/compare_macbook_pro_m5_16_spaceblack__81ui3u6gyuqu_large_2x.jpg"
+    },
+    {
+      "model": "MacBook Pro 16-inch (M5 Pro)",
+      "color": "Silver",
+      "file": "images/apple/variants/146-silver.jpg",
+      "source": "https://www.apple.com/v/mac/compare/ai/images/overview/compare_macbook_pro_m5_16_silver__egqckriiesia_large_2x.jpg"
+    },
+    {
+      "model": "MacBook Pro 16-inch (M5 Max)",
+      "color": "Space Black",
+      "file": "images/apple/variants/147-space-black.jpg",
+      "source": "https://www.apple.com/v/mac/compare/ai/images/overview/compare_macbook_pro_m5_16_spaceblack__81ui3u6gyuqu_large_2x.jpg"
+    },
+    {
+      "model": "MacBook Pro 16-inch (M5 Max)",
+      "color": "Silver",
+      "file": "images/apple/variants/147-silver.jpg",
+      "source": "https://www.apple.com/v/mac/compare/ai/images/overview/compare_macbook_pro_m5_16_silver__egqckriiesia_large_2x.jpg"
+    },
+    {
+      "model": "MacBook Pro 14-inch (M4)",
+      "color": "Space Black",
+      "file": "images/apple/variants/148-space-black.jpg",
+      "source": "https://www.apple.com/v/mac/compare/ai/images/overview/compare_macbook_pro_14_spaceblack__bcacn5s80i9u_large_2x.jpg"
+    },
+    {
+      "model": "MacBook Pro 14-inch (M4)",
+      "color": "Silver",
+      "file": "images/apple/variants/148-silver.jpg",
+      "source": "https://www.apple.com/v/mac/compare/ai/images/overview/compare_macbook_pro_14_silver__i4mzeamc5aa2_large_2x.jpg"
+    },
+    {
+      "model": "MacBook Pro 14-inch (M4 Pro)",
+      "color": "Space Black",
+      "file": "images/apple/variants/149-space-black.jpg",
+      "source": "https://www.apple.com/v/mac/compare/ai/images/overview/compare_macbook_pro_14_spaceblack__bcacn5s80i9u_large_2x.jpg"
+    },
+    {
+      "model": "MacBook Pro 14-inch (M4 Pro)",
+      "color": "Silver",
+      "file": "images/apple/variants/149-silver.jpg",
+      "source": "https://www.apple.com/v/mac/compare/ai/images/overview/compare_macbook_pro_14_silver__i4mzeamc5aa2_large_2x.jpg"
+    },
+    {
+      "model": "MacBook Pro 14-inch (M4 Max)",
+      "color": "Space Black",
+      "file": "images/apple/variants/150-space-black.jpg",
+      "source": "https://www.apple.com/v/mac/compare/ai/images/overview/compare_macbook_pro_14_spaceblack__bcacn5s80i9u_large_2x.jpg"
+    },
+    {
+      "model": "MacBook Pro 14-inch (M4 Max)",
+      "color": "Silver",
+      "file": "images/apple/variants/150-silver.jpg",
+      "source": "https://www.apple.com/v/mac/compare/ai/images/overview/compare_macbook_pro_14_silver__i4mzeamc5aa2_large_2x.jpg"
+    },
+    {
+      "model": "MacBook Pro 16-inch (M4 Pro)",
+      "color": "Space Black",
+      "file": "images/apple/variants/151-space-black.jpg",
+      "source": "https://www.apple.com/v/mac/compare/ai/images/overview/compare_macbook_pro_16_spaceblack__f89510vnuemq_large_2x.jpg"
+    },
+    {
+      "model": "MacBook Pro 16-inch (M4 Pro)",
+      "color": "Silver",
+      "file": "images/apple/variants/151-silver.jpg",
+      "source": "https://www.apple.com/v/mac/compare/ai/images/overview/compare_macbook_pro_16_silver__d4gi8ytb772a_large_2x.jpg"
+    },
+    {
+      "model": "MacBook Pro 16-inch (M4 Max)",
+      "color": "Space Black",
+      "file": "images/apple/variants/152-space-black.jpg",
+      "source": "https://www.apple.com/v/mac/compare/ai/images/overview/compare_macbook_pro_16_spaceblack__f89510vnuemq_large_2x.jpg"
+    },
+    {
+      "model": "MacBook Pro 16-inch (M4 Max)",
+      "color": "Silver",
+      "file": "images/apple/variants/152-silver.jpg",
+      "source": "https://www.apple.com/v/mac/compare/ai/images/overview/compare_macbook_pro_16_silver__d4gi8ytb772a_large_2x.jpg"
+    },
+    {
+      "model": "MacBook Pro 14-inch (M3)",
+      "color": "Space Gray",
+      "file": "images/apple/variants/153-space-gray.jpg",
+      "source": "https://www.apple.com/v/mac/compare/ai/images/overview/compare_macbook_pro_14_spacegray__bs4ph4qrvs76_large_2x.jpg"
+    },
+    {
+      "model": "MacBook Pro 14-inch (M3)",
+      "color": "Silver",
+      "file": "images/apple/variants/153-silver.jpg",
+      "source": "https://www.apple.com/v/mac/compare/ai/images/overview/compare_macbook_pro_14_silver__i4mzeamc5aa2_large_2x.jpg"
+    },
+    {
+      "model": "MacBook Pro 14-inch (M3 Pro)",
+      "color": "Space Black",
+      "file": "images/apple/variants/154-space-black.jpg",
+      "source": "https://www.apple.com/v/mac/compare/ai/images/overview/compare_macbook_pro_14_spaceblack__bcacn5s80i9u_large_2x.jpg"
+    },
+    {
+      "model": "MacBook Pro 14-inch (M3 Pro)",
+      "color": "Silver",
+      "file": "images/apple/variants/154-silver.jpg",
+      "source": "https://www.apple.com/v/mac/compare/ai/images/overview/compare_macbook_pro_14_silver__i4mzeamc5aa2_large_2x.jpg"
+    },
+    {
+      "model": "MacBook Pro 14-inch (M3 Max)",
+      "color": "Space Black",
+      "file": "images/apple/variants/155-space-black.jpg",
+      "source": "https://www.apple.com/v/mac/compare/ai/images/overview/compare_macbook_pro_14_spaceblack__bcacn5s80i9u_large_2x.jpg"
+    },
+    {
+      "model": "MacBook Pro 14-inch (M3 Max)",
+      "color": "Silver",
+      "file": "images/apple/variants/155-silver.jpg",
+      "source": "https://www.apple.com/v/mac/compare/ai/images/overview/compare_macbook_pro_14_silver__i4mzeamc5aa2_large_2x.jpg"
+    },
+    {
+      "model": "MacBook Pro 16-inch (M3 Pro)",
+      "color": "Space Black",
+      "file": "images/apple/variants/156-space-black.jpg",
+      "source": "https://www.apple.com/v/mac/compare/ai/images/overview/compare_macbook_pro_16_spaceblack__f89510vnuemq_large_2x.jpg"
+    },
+    {
+      "model": "MacBook Pro 16-inch (M3 Pro)",
+      "color": "Silver",
+      "file": "images/apple/variants/156-silver.jpg",
+      "source": "https://www.apple.com/v/mac/compare/ai/images/overview/compare_macbook_pro_16_silver__d4gi8ytb772a_large_2x.jpg"
+    },
+    {
+      "model": "MacBook Pro 16-inch (M3 Max)",
+      "color": "Space Black",
+      "file": "images/apple/variants/157-space-black.jpg",
+      "source": "https://www.apple.com/v/mac/compare/ai/images/overview/compare_macbook_pro_16_spaceblack__f89510vnuemq_large_2x.jpg"
+    },
+    {
+      "model": "MacBook Pro 16-inch (M3 Max)",
+      "color": "Silver",
+      "file": "images/apple/variants/157-silver.jpg",
+      "source": "https://www.apple.com/v/mac/compare/ai/images/overview/compare_macbook_pro_16_silver__d4gi8ytb772a_large_2x.jpg"
+    },
+    {
+      "model": "MacBook Pro 14-inch PROLED XDR (M5 Pro)",
+      "color": "Space Black",
+      "file": "images/apple/variants/158-space-black.jpg",
+      "source": "https://www.apple.com/v/mac/compare/ai/images/overview/compare_macbook_pro_proled_xdr_m5_14_spaceblack__bs4ovtejo12a_large_2x.jpg"
+    },
+    {
+      "model": "MacBook Pro 14-inch PROLED XDR (M5 Pro)",
+      "color": "Silver",
+      "file": "images/apple/variants/158-silver.jpg",
+      "source": "https://www.apple.com/v/mac/compare/ai/images/overview/compare_macbook_pro_proled_xdr_m5_14_silver__b2mombwkuf0i_large_2x.jpg"
+    },
+    {
+      "model": "MacBook Pro 14-inch PROLED XDR (M5 Max)",
+      "color": "Space Black",
+      "file": "images/apple/variants/159-space-black.jpg",
+      "source": "https://www.apple.com/v/mac/compare/ai/images/overview/compare_macbook_pro_proled_xdr_m5_14_spaceblack__bs4ovtejo12a_large_2x.jpg"
+    },
+    {
+      "model": "MacBook Pro 14-inch PROLED XDR (M5 Max)",
+      "color": "Silver",
+      "file": "images/apple/variants/159-silver.jpg",
+      "source": "https://www.apple.com/v/mac/compare/ai/images/overview/compare_macbook_pro_proled_xdr_m5_14_silver__b2mombwkuf0i_large_2x.jpg"
+    },
+    {
+      "model": "MacBook Pro 16-inch PROLED XDR (M5 Pro)",
+      "color": "Space Black",
+      "file": "images/apple/variants/160-space-black.jpg",
+      "source": "https://www.apple.com/v/mac/compare/ai/images/overview/compare_macbook_pro_proled_xdr_m5_16_spaceblack__csd1lcieilea_large_2x.jpg"
+    },
+    {
+      "model": "MacBook Pro 16-inch PROLED XDR (M5 Pro)",
+      "color": "Silver",
+      "file": "images/apple/variants/160-silver.jpg",
+      "source": "https://www.apple.com/v/mac/compare/ai/images/overview/compare_macbook_pro_proled_xdr_m5_16_silver__elx4h134kh6q_large_2x.jpg"
+    },
+    {
+      "model": "MacBook Pro 16-inch PROLED XDR (M5 Max)",
+      "color": "Space Black",
+      "file": "images/apple/variants/161-space-black.jpg",
+      "source": "https://www.apple.com/v/mac/compare/ai/images/overview/compare_macbook_pro_proled_xdr_m5_16_spaceblack__csd1lcieilea_large_2x.jpg"
+    },
+    {
+      "model": "MacBook Pro 16-inch PROLED XDR (M5 Max)",
+      "color": "Silver",
+      "file": "images/apple/variants/161-silver.jpg",
+      "source": "https://www.apple.com/v/mac/compare/ai/images/overview/compare_macbook_pro_proled_xdr_m5_16_silver__elx4h134kh6q_large_2x.jpg"
+    }
+  ],
+  "optionsChecked": "2026-10-29",
+  "additionalOptionsSources": [
+    "https://support.apple.com/en-us/117736",
+    "https://support.apple.com/en-us/118552",
+    "https://support.apple.com/en-us/125405"
+  ]
+}

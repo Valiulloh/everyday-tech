@@ -1,0 +1,169 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta
+      name="description"
+      content="Explore thoughtfully selected electronics at Everyday Tech. A frontend portfolio store with a demo checkout."
+    />
+    <meta name="theme-color" content="#071b42" />
+    <title>Product details | Everyday Tech</title>
+    <link rel="icon" href="images/favicon.svg" type="image/svg+xml" />
+    <link rel="stylesheet" href="css/styles.css" />
+    <script src="js/products.js" defer></script>
+    <script src="js/store.js" defer></script>
+    <script src="js/cart.js" defer></script>
+    <script src="js/catalog-utils.js" defer></script>
+    <script src="js/ui.js" defer></script>
+    <script src="js/pages/home.js" defer></script>
+    <script src="js/pages/catalog.js" defer></script>
+    <script src="js/pages/product.js" defer></script>
+    <script src="js/pages/cart.js" defer></script>
+    <script src="js/pages/checkout.js" defer></script>
+    <script src="js/app.js" defer></script>
+  </head>
+  <body data-page="detail">
+    <a class="skip" href="#main">Skip to content</a>
+    <div class="announcement">
+      Independent Apple catalog demo. &nbsp; Free demo shipping on orders $100+
+    </div>
+    <header class="site-header">
+      <a class="brand" href="index.html" aria-label="Everyday Tech home"
+        ><img
+          class="brand-logo"
+          src="images/brand/everyday-tech-precision.png"
+          alt="Everyday Tech"
+          width="430"
+          height="86"
+          fetchpriority="high"
+      /></a>
+      <nav class="site-nav" aria-label="Main navigation">
+        <a href="index.html" data-nav="home"
+          ><svg
+            class="icon"
+            viewBox="0 0 24 24"
+            fill="none"
+            stroke="currentColor"
+            stroke-width="1.75"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            aria-hidden="true"
+            focusable="false"
+          >
+            <use href="images/icons.svg#home"></use></svg
+          ><span>Home</span></a
+        ><a href="products.html" data-nav="all"
+          ><svg
+            class="icon"
+            viewBox="0 0 24 24"
+            fill="none"
+            stroke="currentColor"
+            stroke-width="1.75"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            aria-hidden="true"
+            focusable="false"
+          >
+            <use href="images/icons.svg#grid"></use></svg
+          ><span>Shop all</span></a
+        ><a href="products.html?category=iPhone" data-nav="iPhone"
+          ><svg
+            class="icon"
+            viewBox="0 0 24 24"
+            fill="none"
+            stroke="currentColor"
+            stroke-width="1.75"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            aria-hidden="true"
+            focusable="false"
+          >
+            <use href="images/icons.svg#phone"></use></svg
+          ><span>iPhone</span></a
+        ><a href="products.html?category=iPad" data-nav="iPad"
+          ><svg
+            class="icon"
+            viewBox="0 0 24 24"
+            fill="none"
+            stroke="currentColor"
+            stroke-width="1.75"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            aria-hidden="true"
+            focusable="false"
+          >
+            <use href="images/icons.svg#tablet"></use></svg
+          ><span>iPad</span></a
+        ><a href="products.html?category=MacBook" data-nav="MacBook"
+          ><svg
+            class="icon"
+            viewBox="0 0 24 24"
+            fill="none"
+            stroke="currentColor"
+            stroke-width="1.75"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            aria-hidden="true"
+            focusable="false"
+          >
+            <use href="images/icons.svg#laptop"></use></svg
+          ><span>MacBook</span></a
+        >
+      </nav>
+      <a class="bag-link header-bag" href="cart.html" aria-label="Shopping bag"
+        ><svg
+          class="icon"
+          viewBox="0 0 24 24"
+          fill="none"
+          stroke="currentColor"
+          stroke-width="1.75"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+          aria-hidden="true"
+          focusable="false"
+        >
+          <use href="images/icons.svg#bag"></use></svg
+        ><span>Bag</span><span id="cart-count">0</span></a
+      >
+    </header>
+    <main id="main" tabindex="-1"></main>
+    <footer>
+      <div>
+        <a class="brand footer-brand" href="index.html"
+          ><img
+            class="brand-logo"
+            src="images/brand/everyday-tech-precision.png"
+            alt="Everyday Tech"
+            width="430"
+            height="86"
+            loading="lazy"
+        /></a>
+        <p>Good tech. Better everyday.</p>
+      </div>
+      <div>
+        <a href="products.html"
+          >Explore the collection
+          <svg
+            class="icon"
+            viewBox="0 0 24 24"
+            fill="none"
+            stroke="currentColor"
+            stroke-width="1.75"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            aria-hidden="true"
+            focusable="false"
+          >
+            <use href="images/icons.svg#arrow-up-right"></use></svg
+        ></a>
+        <p>Independent portfolio demo · Not affiliated with Apple</p>
+        <a class="admin-entry" href="admin.html">Demo dashboard</a>
+      </div>
+      <div class="footer-bottom">
+        © 2026 Everyday Tech <span>Designed for a more connected life.</span>
+      </div>
+    </footer>
+    <div id="toast" class="toast" role="status" aria-live="polite"></div>
+  </body>
+</html>
